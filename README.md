@@ -1,0 +1,2 @@
+# -Lane-Detection-using-semantic-segmentation-and-object-detection
+Developed a system which detects lane, its marking, pedestrian, traffic signs, trees and vegetation, constructions/obstacles with Extension of Object Detection. We Used 2 different Deep learning(CNN) Architecture. For Semantic Segmentation we used U-Net and achieved 91% accuracy and for object detection used the YOLOv3 which gave 97% of accuracy.
