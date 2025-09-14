@@ -59,10 +59,5 @@ We used **two different Deep Learning (CNN) architectures** for this project:
 
 ---
 
-## 🙌 Contributors
-- **Your Name** – Data Scientist / ML Engineer  
-
----
-
 ## 📜 License
 This project is licensed under the MIT License – feel free to use and modify with attribution.
